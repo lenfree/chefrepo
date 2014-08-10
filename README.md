@@ -8,7 +8,7 @@ Project Setup:
 =================
 
 $ curl -L https://www.getchef.com/chef/install.sh | sudo bash
-
+$ bundle install --path=.gems --binstubs=.bin 
 
 How do I run the project's automated tests?
 ===========================================
